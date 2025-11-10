@@ -59,7 +59,7 @@ class SignUpScreen extends StatelessWidget {
                               "assets/logos/emergencyAppLogo.png"),
                           height: Get.height * 0.1),
                       Container(
-                        margin: const EdgeInsets.only(top: 8),
+                        margin: const EdgeInsets.only(top: 7),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: const [
