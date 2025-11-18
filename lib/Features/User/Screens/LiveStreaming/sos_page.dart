@@ -18,8 +18,6 @@ class LiveStreamUser extends StatefulWidget {
 final idController = TextEditingController();
 final sessionController = Get.put(SessionController());
 final smsController = Get.put(messageController());
-
-
 class _LiveStreamUserState extends State<LiveStreamUser> {
 
   @override
