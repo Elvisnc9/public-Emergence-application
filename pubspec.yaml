@@ -129,3 +129,4 @@ flutter_launcher_icons:
   ios: true
   image_path: "assets/Ambulance.png"
   remove_alpha_ios: true
+  
